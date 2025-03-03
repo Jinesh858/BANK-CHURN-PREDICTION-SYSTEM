@@ -1,0 +1,1 @@
+Developed a machine learning-based bank churn prediction system to analyze customer behavior and predict potential churn. The system takes user inputs, processes them through multiple ML models, and displays a dashboard showcasing the most accurate model’s predictions and insights.
